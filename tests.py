@@ -20,12 +20,5 @@ class GameFightTest(unittest.TestCase):
     def setUpClass(cls):
         cls.game = Game()
 
-    def test_damage(self):
-        
-
-
-
-
-
 
 
